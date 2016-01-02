@@ -14,10 +14,10 @@ Metalsmith(__dirname)
             sortBy: 'date'
         }
     }))
+    .use(markdown())
     .use(permalinks({
         pattern: ':collections/:title'
     })) 
-    .use(markdown())
 	.use(templates({
 	    engine: 'handlebars',
 	    partials: {
