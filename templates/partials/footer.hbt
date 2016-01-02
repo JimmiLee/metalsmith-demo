@@ -1,0 +1,7 @@
+
+            </div> {{!-- END .main-wrapper --}}
+        <footer>
+            © Metalsmith demo site
+        </footer>
+    </body>
+</html>
