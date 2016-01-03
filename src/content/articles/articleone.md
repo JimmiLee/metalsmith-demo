@@ -2,6 +2,7 @@
 title: "Merry Christmas"
 date: 2015-12-24
 template: article.hbt
+permalink: false
 ---
 
 ### Merry Christmas & a Happy New Year

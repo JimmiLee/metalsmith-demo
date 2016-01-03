@@ -2,6 +2,7 @@
 title: "The New Years Post"
 date: 2015-12-31
 template: article.hbt
+permalink: false
 ---
 
 ## Happy New Year
