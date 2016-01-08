@@ -1,6 +1,6 @@
 var Metalsmith = require('metalsmith'),
     markdown   = require('metalsmith-markdown'),
-    templates  = require('metalsmith-templates');
+    templates  = require('metalsmith-templates'),
     collections = require('metalsmith-collections'),
     permalinks  = require('metalsmith-permalinks');
 
